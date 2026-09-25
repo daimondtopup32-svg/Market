@@ -1,0 +1,6 @@
+{
+  "name": "Digital Marketplace",
+  "description": "A comprehensive marketplace for digital products including source code, domains, and SaaS assets with secure escrow and real-time chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
